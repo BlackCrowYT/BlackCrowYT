@@ -1,0 +1,4 @@
+- 👋 Хей! я @BlackCrowYT
+- 👀 Мне интересует програмирование
+- 🌱 Я учу node.js и css
+- 📫 Чтобы найти меня (Discord: superblackcrow)
